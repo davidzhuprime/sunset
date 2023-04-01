@@ -1,0 +1,13 @@
+{
+  "name": "radcap",
+  "version": "1.0.0",
+  "description": "Your app description",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+  },
+  "devDependencies": {
+  }
+}
